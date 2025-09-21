@@ -1,13 +1,13 @@
-# EmberCare GitHub Project Management Guide
+# EmberCare GitLab Project Management Guide
 
 **Purpose:** How to use this repository for effective business strategy execution
 **Updated:** September 11, 2025
 
 ## 🎯 Repository Overview
 
-This repository manages the business strategy, market research, and commercialization planning for EmberCare medication management software using GitHub's project management features.
+This repository manages the business strategy, market research, and commercialization planning for EmberCare medication management software using GitLab's project management features.
 
-## 📊 GitHub Issues System
+## 📊 GitLab Issues System
 
 ### Issue Types & Labels
 
@@ -185,7 +185,7 @@ When reaching decision gates:
 
 ## 🎯 Success Definition
 
-This GitHub project management system succeeds when:
+This GitLab project management system succeeds when:
 1. **Clear Daily Direction:** You always know what to work on next
 2. **Strategic Alignment:** Daily tasks clearly connect to business objectives  
 3. **Data-Driven Decisions:** Decision gates supported by tracked metrics
